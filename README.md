@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf908548&label=Profile%20views&color=0e75b6&style=flat" alt="maruf908548" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf908548" alt="maruf908548" /></a> </p>
 
 - 🔭 I’m currently working on **SecureDoc__Blockchain-Based-Document-Authentication**
 
