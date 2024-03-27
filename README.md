@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media")
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf908548&label=Profile%20views&color=0e75b6&style=flat" alt="maruf908548" /> </p>
 
