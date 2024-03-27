@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Maruf</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf908548&label=Profile%20views&color=0e75b6&style=flat" alt="maruf908548" /> </p>
