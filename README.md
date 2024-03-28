@@ -1,4 +1,4 @@
-![MasterHead]<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQfOk1_H6848r1-loqZBfaumiQEE_UMAMqkJi27O86Q9mVd1OLjmzyu_DqugLX7X13YEkDsT1dNXprfdGr_aHl7xlkykcRoWuuTU1Uhu7_qZR4Inzv5nPdYMRWzPfz9u52kHTzLtBwS0wmZWk2kYmAyGydWpaP7eCgcUNvse3dMj4uwYU97U5xBz0k3n8/s16000/Dart,%20flutter,%20react,%20js.png)
 
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
