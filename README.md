@@ -1,4 +1,5 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqWZWoUcLgVQbRvoi9osC2_JMSZrUCvGY541480oBWNcbhbUmjDLnGM0r_CML_2DrQVO7FcBsj37-hT356TcMnpnTy8Jzk_4asUrskaC-W8dBwedmtjaftqhFq7hPwPHtecA7O5qXeKVO27oBUHYUvO_1ikd5cD-GqmGuKp_7J0Fi4ZfiRcYwhBOp71rk/w640-h160/Dart,%20flutter,%20react,%20js.png)
+![MasterHead]<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+
 <h1 align="center">Hi 👋, I'm Maruf</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
