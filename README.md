@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/aboutmaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboutmaruf" height="30" width="40" /></a>
 <a href="https://fb.com/syl.198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syl.198" height="30" width="40" /></a>
 <a href="https://instagram.com/maruf908548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maruf908548" height="30" width="40" /></a>
+<a href="https://instagram.com/maruf908548" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Blogger_icon.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
