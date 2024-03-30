@@ -31,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf908548&show_icons=true&locale=en" alt="maruf908548" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf908548&" alt="maruf908548" /></p>
-![Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruf908548&custom_title=Maruf%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
+
+![Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruf908548&custom_title=Maruf%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true))
