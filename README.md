@@ -13,7 +13,10 @@
 
 - 💬 Ask me about **react, flutter, javascript, dart**
 
+- 🚀 Embracing the frontier of web tech!
+
 - 📫 How to reach me **ahmedmaruf908548@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
