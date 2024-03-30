@@ -34,6 +34,7 @@
   <a href="https://github.com/maruf908548">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf908548&theme=dark&border=401f3e&background=0D1117&ring=401f3e" alt="Ahmed's GitHub streak"/>
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maruf908548&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
