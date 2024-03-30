@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf908548&" alt="maruf908548" /></p>
 
-![Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruf908548&custom_title=Maruf%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=401f3e&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruf908548&custom_title=Maruf%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=401f3e&line=401f3e&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
