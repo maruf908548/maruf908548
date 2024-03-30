@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/maruf908548">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf908548&theme=dark&border=401f3e&background=0F1113" alt="Ahmed's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf908548&theme=dark&border=FFFFFF&background=0F1113" alt="Ahmed's GitHub Contribution"/>
   </a>
 </p>
 
